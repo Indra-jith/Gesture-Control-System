@@ -33,9 +33,9 @@ The project integrates **OpenCV, MediaPipe, PyQt6, PyAutoGUI, Pycaw, Pygame, and
 
 ```
 Gesture-Control-System/
-│── project.py            # Main application script
-│── Images/               # Instruction images (e.g., S5.png, S6.png, etc.)
-│── README.md             # Documentation (this file)
+│── Gesture-Control-System.py         # Main application script
+│── Images/                           # Instruction images (e.g., S5.png, S6.png, etc.)
+│── README.md                         # Documentation (this file)
 ```
 
 ---
